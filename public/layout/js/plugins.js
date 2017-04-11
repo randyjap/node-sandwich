@@ -14,35 +14,35 @@ function isMobile_f() {
 isMobile_f();
 
 //Animation
-if(!isMobile) document.write('<link rel="stylesheet" href="http://www.randyjap.com/sandwich_assets/layout/plugins/cssanimation/animate.css" type="text/css">');
-if(!isMobile) document.write('<link rel="stylesheet" href="http://www.randyjap.com/sandwich_assets/layout/plugins/cssanimation/delays.css" type="text/css">');
+if(!isMobile) document.write('<link rel="stylesheet" href="https://node-sandwich.herokuapp.com/layout/plugins/cssanimation/animate.css" type="text/css">');
+if(!isMobile) document.write('<link rel="stylesheet" href="https://node-sandwich.herokuapp.com/layout/plugins/cssanimation/delays.css" type="text/css">');
 
 //FlexSlider
-document.write('<link rel="stylesheet" href="http://www.randyjap.com/sandwich_assets/layout/plugins/flexslider/flexslider.css" type="text/css">');
-if(!isMobile) document.write('<link rel="stylesheet" href="http://www.randyjap.com/sandwich_assets/layout/plugins/flexslider/animation_delays.css" type="text/css"/>');
-document.write('<script type="text/javascript" src="http://www.randyjap.com/sandwich_assets/layout/plugins/flexslider/jquery.flexslider-min.js"></script>');
+document.write('<link rel="stylesheet" href="https://node-sandwich.herokuapp.com/layout/plugins/flexslider/flexslider.css" type="text/css">');
+if(!isMobile) document.write('<link rel="stylesheet" href="https://node-sandwich.herokuapp.com/layout/plugins/flexslider/animation_delays.css" type="text/css"/>');
+document.write('<script type="text/javascript" src="https://node-sandwich.herokuapp.com/layout/plugins/flexslider/jquery.flexslider-min.js"></script>');
 
 //Calendar
-document.write('<link rel="stylesheet" href="http://www.randyjap.com/sandwich_assets/layout/plugins/calendar/calendar.css" type="text/css">');
-document.write('<script type="text/javascript" src="http://www.randyjap.com/sandwich_assets/layout/plugins/calendar/calendar.js"></script>');
+document.write('<link rel="stylesheet" href="https://node-sandwich.herokuapp.com/layout/plugins/calendar/calendar.css" type="text/css">');
+document.write('<script type="text/javascript" src="https://node-sandwich.herokuapp.com/layout/plugins/calendar/calendar.js"></script>');
 
 //Sort
-document.write('<script type="text/javascript" src="http://www.randyjap.com/sandwich_assets/layout/plugins/sort/jquery.sort.min.js"></script>');
+document.write('<script type="text/javascript" src="https://node-sandwich.herokuapp.com/layout/plugins/sort/jquery.sort.min.js"></script>');
 
 //Media Element
-document.write('<link rel="stylesheet" href="http://www.randyjap.com/sandwich_assets/layout/plugins/mediaelement/mediaelementplayer.css" type="text/css"/>');
-document.write('<script type="text/javascript" src="http://www.randyjap.com/sandwich_assets/layout/plugins/mediaelement/mediaelement-and-player.min.js"></script>');
-document.write('<script type="text/javascript" src="http://www.randyjap.com/sandwich_assets/layout/plugins/mediaelement/custom.js"></script>');
+document.write('<link rel="stylesheet" href="https://node-sandwich.herokuapp.com/layout/plugins/mediaelement/mediaelementplayer.css" type="text/css"/>');
+document.write('<script type="text/javascript" src="https://node-sandwich.herokuapp.com/layout/plugins/mediaelement/mediaelement-and-player.min.js"></script>');
+document.write('<script type="text/javascript" src="https://node-sandwich.herokuapp.com/layout/plugins/mediaelement/custom.js"></script>');
 
 //PrettyPhoto
-document.write('<link rel="stylesheet" href="http://www.randyjap.com/sandwich_assets/layout/plugins/prettyphoto/css/prettyPhoto.css" type="text/css">');
-document.write('<script type="text/javascript" src="http://www.randyjap.com/sandwich_assets/layout/plugins/prettyphoto/jquery.prettyPhoto.js"></script>');
+document.write('<link rel="stylesheet" href="https://node-sandwich.herokuapp.com/layout/plugins/prettyphoto/css/prettyPhoto.css" type="text/css">');
+document.write('<script type="text/javascript" src="https://node-sandwich.herokuapp.com/layout/plugins/prettyphoto/jquery.prettyPhoto.js"></script>');
 
 //jQuery tools
-document.write('<script type="text/javascript" src="http://www.randyjap.com/sandwich_assets/layout/plugins/tools/jquery.tools.min.js"></script>');
+document.write('<script type="text/javascript" src="https://node-sandwich.herokuapp.com/layout/plugins/tools/jquery.tools.min.js"></script>');
 
 //Google Maps API
 // document.write('<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>');
 
 //Twitter
-document.write('<script type="text/javascript" src="http://www.randyjap.com/sandwich_assets/layout/plugins/twitter/jquery.tweet.min.js"></script>');
+document.write('<script type="text/javascript" src="https://node-sandwich.herokuapp.com/layout/plugins/twitter/jquery.tweet.min.js"></script>');

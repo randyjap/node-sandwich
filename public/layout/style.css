@@ -1,6 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic);
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700|Patua+One);
-@import url(http://fonts.googleapis.com/css?family=PT+Serif);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700|Patua+One);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -71,7 +71,7 @@ body, a, .body {font-family:'Montserrat', Helvetica, Arial, sans-serif; font-siz
 .separator {height:0px; clear:both; overflow:hidden;}
 
 /* lines */
-.line_1 {height:3px; overflow:hidden; clear:both; background:url(http://www.randyjap.com/sandwich_assets/layout/images/line_1.gif) repeat-x;}
+.line_1 {height:3px; overflow:hidden; clear:both; background:url(https://node-sandwich.herokuapp.com/layout/images/line_1.gif) repeat-x;}
 .line_2 {height:1px; overflow:hidden; clear:both; background-color:#e6ecec;}
 
 /* fonts */
@@ -92,7 +92,7 @@ a:hover {text-decoration:underline;}
 .the_ins_1 {background-color:#8d9599; color:#ffffff; text-decoration:none;}
 .semibold {font-weight:600;}
 
-blockquote.type_1 {margin-left:-18px; margin-bottom:25px; padding:11px 15px 13px 35px; display:block; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_quote_1.png) no-repeat 14px 17px; border:1px solid #e6ecec; border-left:3px solid #33cccd; font-family:'PT Serif', Helvetica, Arial, sans-serif; font-size:13px; color:#747474; line-height:21px;}
+blockquote.type_1 {margin-left:-18px; margin-bottom:25px; padding:11px 15px 13px 35px; display:block; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_quote_1.png) no-repeat 14px 17px; border:1px solid #e6ecec; border-left:3px solid #33cccd; font-family:'PT Serif', Helvetica, Arial, sans-serif; font-size:13px; color:#747474; line-height:21px;}
 blockquote.type_1.left {width:205px; margin:6px 9px 0px -18px; float:left;}
 blockquote.type_1.right {width:205px; margin:6px 0px 0px 9px; float:right;}
 
@@ -121,13 +121,13 @@ blockquote.type_1.right {width:205px; margin:6px 0px 0px 9px; float:right;}
 
 /* lists */
 .list_1 {padding-bottom:15px; overflow:hidden;}
-.list_1 li {padding-left:22px; padding-top:3px; display:block; background:url(http://www.randyjap.com/sandwich_assets/layout/images/marker_1.png) no-repeat 0px 7px; font-size:13px; line-height:20px;}
-.list_1 li:first-child {padding-top:0px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/marker_1.png) no-repeat 0px 4px;}
+.list_1 li {padding-left:22px; padding-top:3px; display:block; background:url(https://node-sandwich.herokuapp.com/layout/images/marker_1.png) no-repeat 0px 7px; font-size:13px; line-height:20px;}
+.list_1 li:first-child {padding-top:0px; background:url(https://node-sandwich.herokuapp.com/layout/images/marker_1.png) no-repeat 0px 4px;}
 .list_1 li a {font-size:13px;}
 
 .list_2 {padding-bottom:15px; overflow:hidden;}
-.list_2 li {padding-left:20px; padding-top:13px; display:block; background:url(http://www.randyjap.com/sandwich_assets/layout/images/marker_2.png) no-repeat 0px 19px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:14px; line-height:21px;}
-.list_2 li:first-child {padding-top:0px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/marker_2.png) no-repeat 0px 6px;}
+.list_2 li {padding-left:20px; padding-top:13px; display:block; background:url(https://node-sandwich.herokuapp.com/layout/images/marker_2.png) no-repeat 0px 19px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:14px; line-height:21px;}
+.list_2 li:first-child {padding-top:0px; background:url(https://node-sandwich.herokuapp.com/layout/images/marker_2.png) no-repeat 0px 6px;}
 .list_2 li a {font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:14px;}
 
 .list_3 {padding-bottom:15px;}
@@ -135,7 +135,7 @@ blockquote.type_1.right {width:205px; margin:6px 0px 0px 9px; float:right;}
 .list_3 li:first-child {padding-top:0px;}
 .list_3 li a {font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:14px;}
 
-.general_social_1 a {width:38px; height:45px; display:block; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_social_1.png); text-indent:-9000px;}
+.general_social_1 a {width:38px; height:45px; display:block; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_social_1.png); text-indent:-9000px;}
 .general_social_1 a.social_1 {background-position:0px 0px;}
 .general_social_1 a.social_1:hover {background-position:0px bottom; background-color:#54aee1;}
 .general_social_1 a.social_2 {background-position:-38px 0px;}
@@ -147,7 +147,7 @@ blockquote.type_1.right {width:205px; margin:6px 0px 0px 9px; float:right;}
 .general_social_1 a.social_5 {background-position:-152px 0px;}
 .general_social_1 a.social_5:hover {background-position:-152px bottom; background-color:#406f95;}
 
-.general_social_2 a {width:27px; height:27px; display:block; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_social_2.png); text-indent:-9000px;}
+.general_social_2 a {width:27px; height:27px; display:block; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_social_2.png); text-indent:-9000px;}
 .general_social_2 a.social_1 {background-position:0px 0px;}
 .general_social_2 a.social_1:hover {background-position:0px bottom;}
 .general_social_2 a.social_2 {background-position:-27px 0px;}
@@ -159,7 +159,7 @@ blockquote.type_1.right {width:205px; margin:6px 0px 0px 9px; float:right;}
 .general_social_2 a.social_5 {background-position:-108px 0px;}
 .general_social_2 a.social_5:hover {background-position:-108px bottom;}
 
-.general_social_3 a {width:21px; height:21px; display:block; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_social_3.png); border:2px solid #e6e6e6; text-indent:-9000px;}
+.general_social_3 a {width:21px; height:21px; display:block; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_social_3.png); border:2px solid #e6e6e6; text-indent:-9000px;}
 .general_social_3 a.social_1 {background-position:-2px -2px;}
 .general_social_3 a.social_1:hover {background-position:-2px -27px; border-color:#54aee1;}
 .general_social_3 a.social_2 {background-position:-27px -2px;}
@@ -187,8 +187,8 @@ blockquote.type_1.right {width:205px; margin:6px 0px 0px 9px; float:right;}
 .block_general_title_2 h2 .author a:hover {color:#a9a9a9;}
 .block_general_title_2 h2 .date {color:#7d7d7d;}
 .block_general_title_2 .stats {display:inline-block; overflow:hidden;}
-.block_general_title_2 .stats .likes {padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
-.block_general_title_2 .stats .comments {margin-left:10px; padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_general_title_2 .stats .likes {padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_general_title_2 .stats .comments {margin-left:10px; padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
 
 
 
@@ -247,7 +247,7 @@ header .middle {padding:53px 0px 47px;}
 .theme_magenta .block_secondary_menu_r .r_menu li a:hover {color:#f20707 !important;}
 
 
-.block_search {height:45px; margin-left:17px; float:right; overflow:hidden; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_search_1.png) no-repeat 10px 15px; border-left:1px solid #303030; border-right:1px solid #303030;}
+.block_search {height:45px; margin-left:17px; float:right; overflow:hidden; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_search_1.png) no-repeat 10px 15px; border-left:1px solid #303030; border-right:1px solid #303030;}
 .block_search input {width:9px; height:15px; line-height:15px; padding:15px 30px; display:block; background-color:transparent; border:0px; font-family:'Montserrat', Helvetica, Arial, sans-serif; font-size:12px; color:#d9d9d9;}
 .block_search.focused input {width:70px;}
 
@@ -257,13 +257,13 @@ header .middle {padding:53px 0px 47px;}
 #logo_top {width:273px; margin:0px auto;}
 #logo_top img {width:100%; height:auto; display:block;}
 
-.block_secondary_menu {padding:1px 0px 3px; position:relative; background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_secondary_menu_1.gif) repeat-x; text-align:center;}
+.block_secondary_menu {padding:1px 0px 3px; position:relative; background:url(https://node-sandwich.herokuapp.com/layout/images/bg_secondary_menu_1.gif) repeat-x; text-align:center;}
 .block_secondary_menu nav {display:inline-block; overflow:hidden;}
 .block_secondary_menu nav li {margin-left:30px; float:left; display:block; position:relative;}
 .block_secondary_menu nav li:first-child {margin-left:0px;}
 .block_secondary_menu nav li a {height:54px; line-height:54px; display:block; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:15px; color:#191919; text-transform:uppercase;}
 .block_secondary_menu nav li a:hover {color:#33cccd; text-decoration:none;}
-.block_secondary_menu nav li .tail {width:7px; height:4px; margin-left:-4px; display:block; position:absolute; left:50%; bottom:9000px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_1.gif) no-repeat; opacity:0; content:' ';}
+.block_secondary_menu nav li .tail {width:7px; height:4px; margin-left:-4px; display:block; position:absolute; left:50%; bottom:9000px; background:url(https://node-sandwich.herokuapp.com/layout/images/tail_1.gif) no-repeat; opacity:0; content:' ';}
 .block_secondary_menu nav li.hover a {color:#33cccd;}
 .block_secondary_menu nav li.hover .tail {bottom:0px; opacity:1;}
 
@@ -301,7 +301,7 @@ header .middle {padding:53px 0px 47px;}
 
 .block_responsive_menu {width:25px; float:left; position:relative;}
 .block_responsive_menu .button {padding-top:11px;}
-.block_responsive_menu .button a {width:25px; height:21px; display:block; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_menu_1.png) no-repeat; text-indent:-9000px;}
+.block_responsive_menu .button a {width:25px; height:21px; display:block; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_menu_1.png) no-repeat; text-indent:-9000px;}
 .block_responsive_menu .r_menu {display:none; position:absolute; left:0px; top:45px;}
 .block_responsive_menu .r_menu.hover {display:block;}
 
@@ -313,11 +313,11 @@ header .middle {padding:53px 0px 47px;}
 .block_responsive_menu .r_menu ul ul {left:142px; display:none;}
 .block_responsive_menu .r_menu li.expanded > ul {display:block;}
 
-.block_secondary_menu_r {padding:1px 0px 3px; display:none; position:relative; background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_secondary_menu_1.gif) repeat-x;}
+.block_secondary_menu_r {padding:1px 0px 3px; display:none; position:relative; background:url(https://node-sandwich.herokuapp.com/layout/images/bg_secondary_menu_1.gif) repeat-x;}
 .block_secondary_menu_r .button {}
 .block_secondary_menu_r .button a {height:54px; line-height:54px; padding:0px 62px 0px 17px; display:block; position:relative; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:15px; color:#191919; text-transform:uppercase;}
 .block_secondary_menu_r .button a:hover {text-decoration:none;}
-.block_secondary_menu_r .button a:before {width:28px; height:28px; display:block; position:absolute; right:17px; top:13px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/arrow_5.png) no-repeat; content:' ';}
+.block_secondary_menu_r .button a:before {width:28px; height:28px; display:block; position:absolute; right:17px; top:13px; background:url(https://node-sandwich.herokuapp.com/layout/images/arrow_5.png) no-repeat; content:' ';}
 .block_secondary_menu_r .r_menu {display:none; position:absolute; left:0px; right:0px; top:55px; z-index:100;}
 .block_secondary_menu_r .r_menu li {display:block; background-color:#191919; border-top:1px solid #363636;}
 .block_secondary_menu_r .r_menu li:first-child {border-top:0px;}
@@ -351,7 +351,7 @@ header .middle {padding:53px 0px 47px;}
 .block_content > .line_1 {margin-top:6px;}
 .block_content > .block_title_w_line_1 {margin:-6px 0px 17px;}
 
-.block_title_w_line_1 {height:21px; line-height:21px; overflow:hidden; background:url(http://www.randyjap.com/sandwich_assets/layout/images/line_2.gif) repeat-x 0px 11px; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:14px; color:#161e26; text-transform:uppercase; text-align:center;}
+.block_title_w_line_1 {height:21px; line-height:21px; overflow:hidden; background:url(https://node-sandwich.herokuapp.com/layout/images/line_2.gif) repeat-x 0px 11px; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:14px; color:#161e26; text-transform:uppercase; text-align:center;}
 .block_title_w_line_1 span {height:21px; line-height:21px; padding:0px 3px; display:inline-block; background-color:#ffffff;}
 
 .block_caption_1 {width:304px; margin-left:-162px; padding:27px 10px; position:absolute; left:50%; bottom:25px; background-color:#ffffff; text-align:center;}
@@ -362,15 +362,15 @@ header .middle {padding:53px 0px 47px;}
 .block_caption_1 .tags a {font-size:10px; color:#7d7d7d; text-transform:uppercase;}
 .block_caption_1 .tags a:hover {color:#33cccd;}
 .block_caption_1 .stats {padding-bottom:7px; display:inline-block; overflow:hidden;}
-.block_caption_1 .stats .likes {padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
-.block_caption_1 .stats .comments {margin-left:10px; padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_caption_1 .stats .likes {padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_caption_1 .stats .comments {margin-left:10px; padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
 .block_caption_1 .info {font-size:10px; color:#a8a8a8; text-transform:uppercase;line-height:normal;}
 .block_caption_1 .info a {font-size:10px; text-transform:uppercase;}
 .block_caption_1 .info .author a {color:#33cccd;}
 .block_caption_1 .info .author a:hover {color:#a9a9a9;}
 .block_caption_1 .info .date {color:#7d7d7d;}
 
-.block_post_control_1 {height:47px; line-height:47px; padding-bottom:3px; overflow:hidden; background:url(http://www.randyjap.com/sandwich_assets/layout/images/line_1.gif) repeat-x left bottom; border-top:2px solid #161e26;}
+.block_post_control_1 {height:47px; line-height:47px; padding-bottom:3px; overflow:hidden; background:url(https://node-sandwich.herokuapp.com/layout/images/line_1.gif) repeat-x left bottom; border-top:2px solid #161e26;}
 .block_post_control_1 .left {float:left;}
 .block_post_control_1 .right {float:right;}
 .block_post_control_1 .left a {font-size:12px; color:#717171;}
@@ -379,7 +379,7 @@ header .middle {padding:53px 0px 47px;}
 .main_content {}
 .sidebar {}
 .sidebar aside {margin-bottom:34px; border-bottom:1px solid #e6ecec;}
-.sidebar aside .sidebar_title_1 {height:32px; line-height:29px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/line_1.gif) repeat-x left bottom; border-top:2px solid #161e26; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:15px; color:#191919; text-transform:uppercase;}
+.sidebar aside .sidebar_title_1 {height:32px; line-height:29px; background:url(https://node-sandwich.herokuapp.com/layout/images/line_1.gif) repeat-x left bottom; border-top:2px solid #161e26; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:15px; color:#191919; text-transform:uppercase;}
 
 .sidebar_right .main_content {width:618px; float:left;}
 .sidebar_right .sidebar {width:296px; float:right;}
@@ -419,7 +419,7 @@ header .middle {padding:53px 0px 47px;}
 .block_slider_type_1 {overflow:hidden; position:relative;}
 .block_slider_type_1 .slides li {position:relative;}
 
-.block_slider_type_1 .flex-direction-nav a {width:50px; height:50px; margin-top:-25px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1.png); text-indent:-9000px; z-index:5;}
+.block_slider_type_1 .flex-direction-nav a {width:50px; height:50px; margin-top:-25px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1.png); text-indent:-9000px; z-index:5;}
 .block_slider_type_1 .flex-direction-nav a.flex-prev {left:-75px; background-position:left top;}
 .block_slider_type_1 .flex-direction-nav a.flex-prev:hover {background-position:left bottom;}
 .block_slider_type_1 .flex-direction-nav a.flex-next {right:-75px; background-position:right top;}
@@ -435,7 +435,7 @@ header .middle {padding:53px 0px 47px;}
 .block_slider_type_2 {position:relative;}
 .block_slider_type_2 .slides li {height:381px; overflow:hidden; position:relative;}
 
-.block_slider_type_2 .flex-direction-nav a {width:21px; height:60px; margin-top:-30px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-color:#d6d6d6; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_3.png); text-indent:-9000px;}
+.block_slider_type_2 .flex-direction-nav a {width:21px; height:60px; margin-top:-30px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-color:#d6d6d6; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_3.png); text-indent:-9000px;}
 .block_slider_type_2 .flex-direction-nav a:hover {background-color:#161e26;}
 .block_slider_type_2 .flex-direction-nav a.flex-prev {left:-30px; background-position:left 24px;}
 .block_slider_type_2 .flex-direction-nav a.flex-next {right:-30px; background-position:right 24px;}
@@ -461,7 +461,7 @@ header .middle {padding:53px 0px 47px;}
 .block_slider_type_3 {overflow:hidden; position:relative;}
 .block_slider_type_3 .slides li {position:relative;}
 
-.block_slider_type_3 .flex-direction-nav a {width:40px; height:40px; margin-top:-20px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4.png); text-indent:-9000px; z-index:5;}
+.block_slider_type_3 .flex-direction-nav a {width:40px; height:40px; margin-top:-20px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4.png); text-indent:-9000px; z-index:5;}
 .block_slider_type_3 .flex-direction-nav a.flex-prev {left:-60px; background-position:left top;}
 .block_slider_type_3 .flex-direction-nav a.flex-prev:hover {background-position:left bottom;}
 .block_slider_type_3 .flex-direction-nav a.flex-next {right:-60px; background-position:right top;}
@@ -477,7 +477,7 @@ header .middle {padding:53px 0px 47px;}
 .block_slider_type_4 {overflow:hidden; position:relative;}
 .block_slider_type_4 .slides li {position:relative;}
 
-.block_slider_type_4 .flex-direction-nav a {width:40px; height:40px; margin-top:-20px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4.png); text-indent:-9000px; z-index:5;}
+.block_slider_type_4 .flex-direction-nav a {width:40px; height:40px; margin-top:-20px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4.png); text-indent:-9000px; z-index:5;}
 .block_slider_type_4 .flex-direction-nav a.flex-prev {left:-60px; background-position:left top;}
 .block_slider_type_4 .flex-direction-nav a.flex-prev:hover {background-position:left bottom;}
 .block_slider_type_4 .flex-direction-nav a.flex-next {right:-60px; background-position:right top;}
@@ -495,7 +495,7 @@ header .middle {padding:53px 0px 47px;}
 .block_slider_type_5 .slides li {position:relative;}
 .block_slider_type_5 .flex-direction-nav {width:112px; margin-left:-56px; position:absolute; left:50%; top:-46px;}
 .block_slider_type_5 .flex-direction-nav li {float:left;}
-.block_slider_type_5 .flex-direction-nav a {width:28px; height:29px; display:block; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_6.png); text-indent:-9000px; z-index:5;}
+.block_slider_type_5 .flex-direction-nav a {width:28px; height:29px; display:block; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_6.png); text-indent:-9000px; z-index:5;}
 .block_slider_type_5 .flex-direction-nav a.flex-prev {background-position:left top;}
 .block_slider_type_5 .flex-direction-nav a.flex-prev:hover {background-position:left bottom;}
 .block_slider_type_5 .flex-direction-nav a.flex-next {background-position:right top;}
@@ -503,7 +503,7 @@ header .middle {padding:53px 0px 47px;}
 .block_slider_type_5 .flex-direction-nav .nums {width:56px; height:29px; line-height:28px; display:block; overflow:hidden; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:13px; color:#191919; text-transform:uppercase; text-align:center;}
 
 .block_slider_type_5 .icon {position:absolute; left:0px; right:0px; top:0px; bottom:0px; background-repeat:no-repeat; background-position:center center; cursor:pointer;}
-.block_slider_type_5 .icon.video {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_video_1.png);}
+.block_slider_type_5 .icon.video {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_video_1.png);}
 
 .block_slider_type_5 .iframe {display:none; position:absolute; left:0px; right:0px; top:0px; bottom:0px;}
 .block_slider_type_5 .iframe iframe {width:100%; height:100%;}
@@ -512,7 +512,7 @@ header .middle {padding:53px 0px 47px;}
 
 .block_posts .load_more_1 {width:292px; height:37px; line-height:37px; margin:0px auto; display:block; border:2px solid #e8e8e8; color:#4e4e4e; font-weight:bold; text-transform:uppercase; text-align:center;}
 .block_posts .load_more_1 span {height:37px; line-height:37px; padding-left:20px; display:inline-block; position:relative;}
-.block_posts .load_more_1 span:after {width:11px; height:11px; display:block; position:absolute; left:0px; top:13px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_load_1.png) no-repeat; content:' ';}
+.block_posts .load_more_1 span:after {width:11px; height:11px; display:block; position:absolute; left:0px; top:13px; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_load_1.png) no-repeat; content:' ';}
 .block_posts .load_more_1:hover {border-color:#33cccd; text-decoration:none;}
 
 .block_posts .post_type_1 {}
@@ -520,7 +520,7 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_1 .image a {display:block; overflow:hidden; position:relative;}
 .block_posts .post_type_1 .image a img {width:100%; height:auto; display:block;}
 .block_posts .post_type_1 .image a span {display:block; position:absolute; left:0px; right:0px; top:0px; bottom:0px;}
-.block_posts .post_type_1 .image a span.hover {background-color:rgba(31, 31, 31, 0.22); background-repeat:no-repeat; background-position:center center; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_zoom_2.png); opacity:0;}
+.block_posts .post_type_1 .image a span.hover {background-color:rgba(31, 31, 31, 0.22); background-repeat:no-repeat; background-position:center center; background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_zoom_2.png); opacity:0;}
 .block_posts .post_type_1 .image a span.hover.no_icon {background-image:none;}
 .block_posts .post_type_1 .image a:hover img {
 	-webkit-transform:scale(1.06);
@@ -531,17 +531,17 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_1 .image a:hover .hover {opacity:1;}
 
 .block_posts .post_type_1 .image a span.icon {background-repeat:no-repeat; background-position:center center;}
-.block_posts .post_type_1 .image a span.icon.video {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_video_1.png);}
+.block_posts .post_type_1 .image a span.icon.video {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_video_1.png);}
 
 .block_posts .post_type_1 .image a span.icon_2 {width:27px; height:27px; left:3px; right:auto; top:auto; bottom:3px; background-repeat:no-repeat; background-position:center center;}
-.block_posts .post_type_1 .image a span.icon_2.music {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_music_1.png); background-color:#ffffff;}
+.block_posts .post_type_1 .image a span.icon_2.music {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_music_1.png); background-color:#ffffff;}
 
 .block_posts .post_type_1 .review {width:39px; height:37px; position:absolute; left:3px; bottom:3px; background-color:#33cccd; text-align:center;}
 .block_posts .post_type_1 .review .num {padding:4px 0px 1px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:17px; color:#ffffff; font-weight:bold;}
 .block_posts .post_type_1 .review .type {font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:8px; color:#ffffff; font-weight:bold; text-transform:uppercase;}
 
 .block_posts .post_type_1 .slider {overflow:hidden; position:relative;}
-.block_posts .post_type_1 .slider .flex-direction-nav a {width:32px; height:32px; margin-top:-16px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2.png); text-indent:-9000px; z-index:5;}
+.block_posts .post_type_1 .slider .flex-direction-nav a {width:32px; height:32px; margin-top:-16px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2.png); text-indent:-9000px; z-index:5;}
 .block_posts .post_type_1 .slider .flex-direction-nav a.flex-prev {left:-42px; background-position:left top;}
 .block_posts .post_type_1 .slider .flex-direction-nav a.flex-prev:hover {background-position:left bottom;}
 .block_posts .post_type_1 .slider .flex-direction-nav a.flex-next {right:-42px; background-position:right top;}
@@ -552,7 +552,7 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_1 .slider .flex-control-nav {height:9px; display:block; overflow:hidden; position:absolute; left:0px; right:0px; bottom:11px; font-size:0px; text-align:center; z-index:5;}
 .block_posts .post_type_1 .slider .flex-control-nav li {margin-left:3px; display:inline-block;}
 .block_posts .post_type_1 .slider .flex-control-nav li:first-child {margin-left:0px;}
-.block_posts .post_type_1 .slider .flex-control-nav a {width:9px; height:9px; display:block; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_slider_nav_1.png); background-position:right top; text-indent:-9000px; cursor:pointer;}
+.block_posts .post_type_1 .slider .flex-control-nav a {width:9px; height:9px; display:block; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_slider_nav_1.png); background-position:right top; text-indent:-9000px; cursor:pointer;}
 .block_posts .post_type_1 .slider .flex-control-nav a.flex-active {background-position:left top;}
 
 .block_posts .post_type_1 .info {padding:13px 0px 6px; overflow:hidden;}
@@ -561,8 +561,8 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_1 .info .tags a:hover {color:#33cccd; text-decoration:none;}
 .block_posts .post_type_1 .info .date {margin-left:3px; padding-top:1px; float:left; font-size:11px; color:#808080; text-transform:uppercase; line-height:normal;}
 .block_posts .post_type_1 .info .stats {float:right; opacity:0;}
-.block_posts .post_type_1 .info .likes {padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
-.block_posts .post_type_1 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_1 .info .likes {padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_1 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
 
 .block_posts .post_type_1 .title {font-size:15px; color:#424242; font-weight:bold; line-height:21px;}
 .block_posts .post_type_1 .title a {font-size:15px; color:#424242; font-weight:bold;}
@@ -576,7 +576,7 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_2 .image a {display:block; overflow:hidden; position:relative;}
 .block_posts .post_type_2 .image a img {width:100%; height:auto; display:block;}
 .block_posts .post_type_2 .image a span {display:block; position:absolute; left:0px; right:0px; top:0px; bottom:0px;}
-.block_posts .post_type_2 .image a span.hover {background-color:rgba(31, 31, 31, 0.22); background-repeat:no-repeat; background-position:center center; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_zoom_3.png); opacity:0;}
+.block_posts .post_type_2 .image a span.hover {background-color:rgba(31, 31, 31, 0.22); background-repeat:no-repeat; background-position:center center; background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_zoom_3.png); opacity:0;}
 .block_posts .post_type_2 .image a span.hover.no_icon {background-image:none;}
 .block_posts .post_type_2 .image a:hover img {
 	-webkit-transform:scale(1.1);
@@ -587,10 +587,10 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_2 .image a:hover .hover {opacity:1;}
 
 .block_posts .post_type_2 .image a span.icon {background-repeat:no-repeat; background-position:center center;}
-.block_posts .post_type_2 .image a span.icon.video {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_video_1.png);}
+.block_posts .post_type_2 .image a span.icon.video {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_video_1.png);}
 
 .block_posts .post_type_2 .image a span.icon_2 {width:27px; height:27px; left:3px; right:auto; top:auto; bottom:3px; background-repeat:no-repeat; background-position:center center;}
-.block_posts .post_type_2 .image a span.icon_2.music {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_music_1.png); background-color:#ffffff;}
+.block_posts .post_type_2 .image a span.icon_2.music {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_music_1.png); background-color:#ffffff;}
 
 .block_posts .post_type_2 .content {overflow:hidden;}
 .block_posts .post_type_2 .info {margin-top:-3px; padding:0px 0px 6px; overflow:hidden;}
@@ -599,8 +599,8 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_2 .info .tags a:hover {color:#33cccd; text-decoration:none;}
 .block_posts .post_type_2 .info .date {margin-left:3px; float:left; font-size:11px; color:#808080; text-transform:uppercase; line-height:normal;}
 .block_posts .post_type_2 .info .stats {float:right; opacity:0;}
-.block_posts .post_type_2 .info .likes {padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
-.block_posts .post_type_2 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_2 .info .likes {padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_2 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
 
 .block_posts .post_type_2 .title {font-size:13px; color:#424242; font-weight:bold; line-height:19px;}
 .block_posts .post_type_2 .title a {font-size:13px; color:#424242; font-weight:bold;}
@@ -618,8 +618,8 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_3 .info .tags a:hover {color:#33cccd; text-decoration:none;}
 .block_posts .post_type_3 .info .date {margin-left:3px; padding-top:1px; float:left; font-size:11px; color:#808080; text-transform:uppercase; line-height:normal;}
 .block_posts .post_type_3 .info .stats {float:right; opacity:0;}
-.block_posts .post_type_3 .info .likes {padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
-.block_posts .post_type_3 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_3 .info .likes {padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_3 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
 
 .block_posts .post_type_3 .title {font-size:13px; color:#424242; font-weight:bold; line-height:19px;}
 .block_posts .post_type_3 .title a {font-size:13px; color:#424242; font-weight:bold;}
@@ -635,7 +635,7 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_4 .image a {display:block; overflow:hidden; position:relative;}
 .block_posts .post_type_4 .image a img {width:100%; height:auto; display:block;}
 .block_posts .post_type_4 .image a span {display:block; position:absolute; left:0px; right:0px; top:0px; bottom:0px;}
-.block_posts .post_type_4 .image a span.hover {background-color:rgba(31, 31, 31, 0.22); background-repeat:no-repeat; background-position:center center; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_zoom_2.png); opacity:0;}
+.block_posts .post_type_4 .image a span.hover {background-color:rgba(31, 31, 31, 0.22); background-repeat:no-repeat; background-position:center center; background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_zoom_2.png); opacity:0;}
 .block_posts .post_type_4 .image a span.hover.no_icon {background-image:none;}
 .block_posts .post_type_4 .image a:hover img {
 	-webkit-transform:scale(1.06);
@@ -646,10 +646,10 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_4 .image a:hover .hover {opacity:1;}
 
 .block_posts .post_type_4 .image a span.icon {background-repeat:no-repeat; background-position:center center;}
-.block_posts .post_type_4 .image a span.icon.video {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_video_1.png);}
+.block_posts .post_type_4 .image a span.icon.video {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_video_1.png);}
 
 .block_posts .post_type_4 .image a span.icon_2 {width:27px; height:27px; left:3px; right:auto; top:auto; bottom:3px; background-repeat:no-repeat; background-position:center center;}
-.block_posts .post_type_4 .image a span.icon_2.music {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_music_1.png); background-color:#ffffff;}
+.block_posts .post_type_4 .image a span.icon_2.music {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_music_1.png); background-color:#ffffff;}
 
 .block_posts .post_type_4 .review {width:39px; height:37px; position:absolute; left:3px; bottom:3px; background-color:#33cccd; text-align:center;}
 .block_posts .post_type_4 .review .num {padding:3px 0px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:17px; color:#ffffff; font-weight:bold;}
@@ -658,12 +658,12 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_4 .f_info {height:24px; line-height:24px; padding:0px 7px; position:absolute; left:3px; bottom:3px; background-color:#33cccd; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:11px; color:#ffffff; text-transform:uppercase;}
 .block_posts .post_type_4 .f_info a {width:24px; height:24px; display:block; position:absolute; right:-27px; top:27px; background-repeat:no-repeat; background-color:#33cccd; text-indent:-9000px; opacity:0;}
 .block_posts .post_type_4 .f_info a:hover {background-color:#191919;}
-.block_posts .post_type_4 .f_info a.movie {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_movie_1.png);}
-.block_posts .post_type_4 .f_info a.gallery {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_gallery_1.png);}
-.block_posts .post_type_4 .f_info a.audio {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_audio_1.png);}
+.block_posts .post_type_4 .f_info a.movie {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_movie_1.png);}
+.block_posts .post_type_4 .f_info a.gallery {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_gallery_1.png);}
+.block_posts .post_type_4 .f_info a.audio {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_audio_1.png);}
 
 .block_posts .post_type_4 .slider {overflow:hidden; position:relative;}
-.block_posts .post_type_4 .slider .flex-direction-nav a {width:32px; height:32px; margin-top:-16px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2.png); text-indent:-9000px; z-index:5;}
+.block_posts .post_type_4 .slider .flex-direction-nav a {width:32px; height:32px; margin-top:-16px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2.png); text-indent:-9000px; z-index:5;}
 .block_posts .post_type_4 .slider .flex-direction-nav a.flex-prev {left:-42px; background-position:left top;}
 .block_posts .post_type_4 .slider .flex-direction-nav a.flex-prev:hover {background-position:left bottom;}
 .block_posts .post_type_4 .slider .flex-direction-nav a.flex-next {right:-42px; background-position:right top;}
@@ -674,7 +674,7 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_4 .slider .flex-control-nav {height:9px; display:block; overflow:hidden; position:absolute; left:0px; right:0px; bottom:11px; font-size:0px; text-align:center; z-index:5;}
 .block_posts .post_type_4 .slider .flex-control-nav li {margin-left:3px; display:inline-block;}
 .block_posts .post_type_4 .slider .flex-control-nav li:first-child {margin-left:0px;}
-.block_posts .post_type_4 .slider .flex-control-nav a {width:9px; height:9px; display:block; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_slider_nav_1.png); background-position:right top; text-indent:-9000px; cursor:pointer;}
+.block_posts .post_type_4 .slider .flex-control-nav a {width:9px; height:9px; display:block; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_slider_nav_1.png); background-position:right top; text-indent:-9000px; cursor:pointer;}
 .block_posts .post_type_4 .slider .flex-control-nav a.flex-active {background-position:left top;}
 
 .block_posts .post_type_4 .info {padding:13px 0px 6px; overflow:hidden;}
@@ -683,16 +683,16 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_4 .info .tags a:hover {color:#33cccd; text-decoration:none;}
 .block_posts .post_type_4 .info .date {margin-left:3px; padding-top:1px; float:left; font-size:11px; color:#808080; text-transform:uppercase; line-height:normal;}
 .block_posts .post_type_4 .info .stats {float:right; opacity:0;}
-.block_posts .post_type_4 .info .likes {padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
-.block_posts .post_type_4 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_4 .info .likes {padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_4 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
 
 .block_posts .post_type_4 .title {min-height:73px; font-size:15px; color:#424242; font-weight:bold; line-height:21px;}
 .block_posts .post_type_4 .title a {font-size:15px; color:#424242; font-weight:bold;}
 .block_posts .post_type_4 .title a:hover {color:#33cccd; text-decoration:none;}
 .block_posts .post_type_4 .title span {color:#33cccd; text-transform:uppercase;}
 
-.block_posts .post_type_4 .value {width:68px; height:12px; margin:4px 0px 9px; position:relative; background:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_stars_1.png) no-repeat;}
-.block_posts .post_type_4 .value div {width:0px; height:12px; position:absolute; left:0px; top:0px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_stars_1.png) no-repeat 0px bottom #ffffff;}
+.block_posts .post_type_4 .value {width:68px; height:12px; margin:4px 0px 9px; position:relative; background:url(https://node-sandwich.herokuapp.com/layout/images/sprite_stars_1.png) no-repeat;}
+.block_posts .post_type_4 .value div {width:0px; height:12px; position:absolute; left:0px; top:0px; background:url(https://node-sandwich.herokuapp.com/layout/images/sprite_stars_1.png) no-repeat 0px bottom #ffffff;}
 
 .block_posts .post_type_4 .text {min-height:78px;}
 .block_posts .post_type_4 .text p {padding-bottom:0px; font-family:'Open Sans', Helvetica, Arial, sans-serif; line-height:19px;}
@@ -705,7 +705,7 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_5 .image a {display:block; overflow:hidden; position:relative;}
 .block_posts .post_type_5 .image a img {width:100%; height:auto; display:block;}
 .block_posts .post_type_5 .image a span {display:block; position:absolute; left:0px; right:0px; top:0px; bottom:0px;}
-.block_posts .post_type_5 .image a span.hover {background-color:rgba(31, 31, 31, 0.22); background-repeat:no-repeat; background-position:center center; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_zoom_2.png); opacity:0;}
+.block_posts .post_type_5 .image a span.hover {background-color:rgba(31, 31, 31, 0.22); background-repeat:no-repeat; background-position:center center; background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_zoom_2.png); opacity:0;}
 .block_posts .post_type_5 .image a span.hover.no_icon {background-image:none;}
 .block_posts .post_type_5 .image a:hover img {
 	-webkit-transform:scale(1.1);
@@ -716,17 +716,17 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_5 .image a:hover .hover {opacity:1;}
 
 .block_posts .post_type_5 .image a span.icon {background-repeat:no-repeat; background-position:center center;}
-.block_posts .post_type_5 .image a span.icon.video {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_video_1.png);}
+.block_posts .post_type_5 .image a span.icon.video {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_video_1.png);}
 
 .block_posts .post_type_5 .image a span.icon_2 {width:27px; height:27px; left:3px; right:auto; top:auto; bottom:3px; background-repeat:no-repeat; background-position:center center;}
-.block_posts .post_type_5 .image a span.icon_2.music {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_music_1.png); background-color:#ffffff;}
+.block_posts .post_type_5 .image a span.icon_2.music {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_music_1.png); background-color:#ffffff;}
 
 .block_posts .post_type_5 .review {width:39px; height:37px; position:absolute; left:3px; bottom:3px; background-color:#33cccd; text-align:center;}
 .block_posts .post_type_5 .review .num {padding:3px 0px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:17px; color:#ffffff; font-weight:bold;}
 .block_posts .post_type_5 .review .type {font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:8px; color:#ffffff; font-weight:bold; text-transform:uppercase;}
 
 .block_posts .post_type_5 .slider {overflow:hidden; position:relative;}
-.block_posts .post_type_5 .slider .flex-direction-nav a {width:32px; height:32px; margin-top:-16px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2.png); text-indent:-9000px; z-index:5;}
+.block_posts .post_type_5 .slider .flex-direction-nav a {width:32px; height:32px; margin-top:-16px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2.png); text-indent:-9000px; z-index:5;}
 .block_posts .post_type_5 .slider .flex-direction-nav a.flex-prev {left:-42px; background-position:left top;}
 .block_posts .post_type_5 .slider .flex-direction-nav a.flex-prev:hover {background-position:left bottom;}
 .block_posts .post_type_5 .slider .flex-direction-nav a.flex-next {right:-42px; background-position:right top;}
@@ -737,7 +737,7 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_5 .slider .flex-control-nav {height:9px; display:block; overflow:hidden; position:absolute; left:0px; right:0px; bottom:11px; font-size:0px; text-align:center; z-index:5;}
 .block_posts .post_type_5 .slider .flex-control-nav li {margin-left:3px; display:inline-block;}
 .block_posts .post_type_5 .slider .flex-control-nav li:first-child {margin-left:0px;}
-.block_posts .post_type_5 .slider .flex-control-nav a {width:9px; height:9px; display:block; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_slider_nav_1.png); background-position:right top; text-indent:-9000px; cursor:pointer;}
+.block_posts .post_type_5 .slider .flex-control-nav a {width:9px; height:9px; display:block; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_slider_nav_1.png); background-position:right top; text-indent:-9000px; cursor:pointer;}
 .block_posts .post_type_5 .slider .flex-control-nav a.flex-active {background-position:left top;}
 
 .block_posts .post_type_5 .content {overflow:hidden;}
@@ -747,8 +747,8 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_5 .info .tags a:hover {color:#33cccd; text-decoration:none;}
 .block_posts .post_type_5 .info .date {margin-left:3px; float:left; font-size:11px; color:#808080; text-transform:uppercase; line-height:normal;}
 .block_posts .post_type_5 .info .stats {float:right; opacity:0;}
-.block_posts .post_type_5 .info .likes {padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
-.block_posts .post_type_5 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_5 .info .likes {padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_5 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
 
 .block_posts .post_type_5 .title {font-size:15px; color:#424242; font-weight:bold; line-height:21px;}
 .block_posts .post_type_5 .title a {font-size:15px; color:#424242; font-weight:bold;}
@@ -765,7 +765,7 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_6 .image a {display:block; overflow:hidden; position:relative;}
 .block_posts .post_type_6 .image a img {width:100%; height:auto; display:block;}
 .block_posts .post_type_6 .image a span {display:block; position:absolute; left:0px; right:0px; top:0px; bottom:0px;}
-.block_posts .post_type_6 .image a span.hover {background-color:rgba(31, 31, 31, 0.22); background-repeat:no-repeat; background-position:center center; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_zoom_3.png); opacity:0;}
+.block_posts .post_type_6 .image a span.hover {background-color:rgba(31, 31, 31, 0.22); background-repeat:no-repeat; background-position:center center; background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_zoom_3.png); opacity:0;}
 .block_posts .post_type_6 .image a span.hover.no_icon {background-image:none;}
 .block_posts .post_type_6 .image a:hover img {
 	-webkit-transform:scale(1.1);
@@ -776,10 +776,10 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_6 .image a:hover .hover {opacity:1;}
 
 .block_posts .post_type_6 .image a span.icon {background-repeat:no-repeat; background-position:center center;}
-.block_posts .post_type_6 .image a span.icon.video {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_video_1.png);}
+.block_posts .post_type_6 .image a span.icon.video {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_video_1.png);}
 
 .block_posts .post_type_6 .image a span.icon_2 {width:27px; height:27px; left:3px; right:auto; top:auto; bottom:3px; background-repeat:no-repeat; background-position:center center;}
-.block_posts .post_type_6 .image a span.icon_2.music {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_music_1.png); background-color:#ffffff;}
+.block_posts .post_type_6 .image a span.icon_2.music {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_music_1.png); background-color:#ffffff;}
 
 .block_posts .post_type_6 .review {width:39px; height:37px; position:absolute; left:3px; bottom:3px; background-color:#33cccd; text-align:center;}
 .block_posts .post_type_6 .review .num {padding:3px 0px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:17px; color:#ffffff; font-weight:bold;}
@@ -795,8 +795,8 @@ header .middle {padding:53px 0px 47px;}
 .block_posts .post_type_6 .info .author a:hover {color:#808080; text-decoration:none;}
 .block_posts .post_type_6 .info .date {margin-left:3px; float:left; font-size:11px; color:#808080; text-transform:uppercase; line-height:normal;}
 .block_posts .post_type_6 .info .stats {float:right; opacity:0;}
-.block_posts .post_type_6 .info .likes {padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
-.block_posts .post_type_6 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_6 .info .likes {padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_like_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
+.block_posts .post_type_6 .info .comments {margin-left:10px; padding-left:15px; float:left; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_comments_1.png) no-repeat 0px 3px; font-size:12px; color:#969696; line-height:normal;}
 
 .block_posts .post_type_6 .title {font-size:13px; color:#424242; font-weight:bold; line-height:19px;}
 .block_posts .post_type_6 .title a {font-size:13px; color:#424242; font-weight:bold;}
@@ -856,7 +856,7 @@ header .middle {padding:53px 0px 47px;}
 .block_pager_1 ul li a {min-width:24px; height:24px; line-height:24px; display:block; border:2px solid #e6ecec; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:11px; color:#161e26; font-weight:600; text-transform:uppercase; text-align:center;}
 .block_pager_1 ul li a:hover {border-color:#d7dede; text-decoration:none;}
 .block_pager_1 ul li a.next {min-width:0px; padding:0px 21px 0px 11px; position:relative;}
-.block_pager_1 ul li a.next:before {width:6px; height:8px; display:block; position:absolute; right:11px; top:8px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/arrow_1.png) no-repeat; content:' ';}
+.block_pager_1 ul li a.next:before {width:6px; height:8px; display:block; position:absolute; right:11px; top:8px; background:url(https://node-sandwich.herokuapp.com/layout/images/arrow_1.png) no-repeat; content:' ';}
 .block_pager_1 ul li.current a {background-color:#33cccd; border-color:#33cccd; color:#ffffff;}
 .block_pager_1 .info {height:28px; line-height:28px; float:right; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:11px; color:#141e26; font-weight:600; text-transform:uppercase;}
 
@@ -879,7 +879,7 @@ header .middle {padding:53px 0px 47px;}
 .block_map_1 h2 {padding-bottom:22px; font-size:19px; text-transform:uppercase;}
 .block_map_1 #map {width:100%; height:319px;}
 
-.block_search_page {margin-bottom:29px; padding-bottom:28px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/line_1.gif) repeat-x left bottom;}
+.block_search_page {margin-bottom:29px; padding-bottom:28px; background:url(https://node-sandwich.herokuapp.com/layout/images/line_1.gif) repeat-x left bottom;}
 .block_search_page .form {overflow:hidden;}
 .block_search_page .form .field {
 	width:519px;
@@ -900,7 +900,7 @@ header .middle {padding:53px 0px 47px;}
 .block_search_page .text {padding-top:15px;}
 .block_search_page .text p {padding-bottom:0px; font-family:'Open Sans', Helvetica, Arial, sans-serif; line-height:19px;}
 
-.block_404 {width:384px; margin:90px auto 0px; padding:13px 0px 100px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404.png) no-repeat right top;}
+.block_404 {width:384px; margin:90px auto 0px; padding:13px 0px 100px; background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404.png) no-repeat right top;}
 .block_404 h1 {padding-bottom:3px; font-size:162px; text-align:center;}
 .block_404 h2 {padding:0px 30px 19px; font-family:'Montserrat', Helvetica, Arial, sans-serif; color:#a8a8a8; font-size:13px; text-transform:uppercase; line-height:21px; text-align:center;}
 .block_404 p {padding-bottom:26px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:14px; line-height:21px; text-align:center;}
@@ -909,16 +909,16 @@ header .middle {padding:53px 0px 47px;}
 .block_search_404 .field {height:29px; padding-left:10px; float:left; overflow:hidden;}
 .block_search_404 .field input {width:225px; height:17px; line-height:17px; padding:5px 0px; display:block; background-color:transparent; border:0px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:12px; color:#a6a6a6;}
 .block_search_404 .button {height:29px; float:right; overflow:hidden;}
-.block_search_404 .button input {width:29px; height:29px; display:block; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_search_2.png) no-repeat 8px 8px transparent; border:0px; font-size:0px; text-indent:-9000px; cursor:pointer;}
+.block_search_404 .button input {width:29px; height:29px; display:block; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_search_2.png) no-repeat 8px 8px transparent; border:0px; font-size:0px; text-indent:-9000px; cursor:pointer;}
 
 .block_archives {}
-.block_archives .intro {margin:-5px 0px 27px; padding-bottom:9px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/line_1.gif) repeat-x left bottom;}
+.block_archives .intro {margin:-5px 0px 27px; padding-bottom:9px; background:url(https://node-sandwich.herokuapp.com/layout/images/line_1.gif) repeat-x left bottom;}
 .block_archives .intro p {padding-bottom:19px; font-family:'Open Sans', Helvetica, Arial, sans-serif; line-height:19px;}
 .block_archives .intro p.marked {font-weight:600;}
 .block_archives .list {}
 .block_archives .list > ul > li {display:block; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:14px; color:#191919; text-transform:uppercase;}
 .block_archives .list ul ul {padding:15px 0px 16px 28px; display:block;}
-.block_archives .list ul ul li {padding-left:13px; padding-bottom:12px; display:block; background:url(http://www.randyjap.com/sandwich_assets/layout/images/marker_1.png) no-repeat 0px 4px; font-family:'Montserrat', Helvetica, Arial, sans-serif; font-size:14px; color:#33cccd; text-transform:none;}
+.block_archives .list ul ul li {padding-left:13px; padding-bottom:12px; display:block; background:url(https://node-sandwich.herokuapp.com/layout/images/marker_1.png) no-repeat 0px 4px; font-family:'Montserrat', Helvetica, Arial, sans-serif; font-size:14px; color:#33cccd; text-transform:none;}
 .block_archives .list ul ul li a {font-family:'Montserrat', Helvetica, Arial, sans-serif; font-size:14px; color:#33cccd;}
 .block_archives .list ul ul li a:hover {color:#424242; text-decoration:none;}
 
@@ -969,7 +969,7 @@ header .middle {padding:53px 0px 47px;}
 .block_post_lnk_1 {padding:43px 0px 0px;}
 .block_post_lnk_1 a {padding:0px; display:block;}
 
-.block_info_1 {padding:47px 0px 34px; overflow:hidden; background:url(http://www.randyjap.com/sandwich_assets/layout/images/line_1.gif) repeat-x left bottom;}
+.block_info_1 {padding:47px 0px 34px; overflow:hidden; background:url(https://node-sandwich.herokuapp.com/layout/images/line_1.gif) repeat-x left bottom;}
 .block_info_1 > div {height:83px; margin-left:26px; float:left; position:relative; border:1px solid #e6ecec;}
 .block_info_1 > div:first-child {margin-left:0px;}
 .block_info_1 > div .title {position:absolute; left:0px; right:0px; top:-7px; font-family:'Patua One', Helvetica, Arial, sans-serif; color:#424242; text-transform:uppercase; text-align:center;}
@@ -1013,7 +1013,7 @@ header .middle {padding:53px 0px 47px;}
 .block_info_1 .subscribe .content a.lnk_subscribe {padding-left:34px; padding-top:2px; display:block; position:relative; font-size:11px; color:#757575; text-transform:uppercase; line-height:15px;}
 .block_info_1 .subscribe .content a.lnk_subscribe:hover {text-decoration:none;}
 .block_info_1 .subscribe .content a.lnk_subscribe .icon {width:21px; height:21px; display:block; position:absolute; left:0px; top:4px; border:2px solid #e6e6e6;}
-.block_info_1 .subscribe .content a.lnk_subscribe .icon.email {background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_email_1.gif) no-repeat 5px 6px;}
+.block_info_1 .subscribe .content a.lnk_subscribe .icon.email {background:url(https://node-sandwich.herokuapp.com/layout/images/icon_email_1.gif) no-repeat 5px 6px;}
 
 .block_info_1.type_1 > .tags {width:auto; margin-bottom:36px; float:none;}
 .block_info_1.type_1 > .rating {width:186px; margin-left:0px;}
@@ -1021,7 +1021,7 @@ header .middle {padding:53px 0px 47px;}
 .block_info_1.type_1 > .subscribe {width:167px;}
 .block_info_1.type_1 > .subscribe .content {padding-left:23px; padding-right:15px;}
 
-.block_comments_1 {padding:39px 0px 5px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/line_1.gif) repeat-x left bottom;}
+.block_comments_1 {padding:39px 0px 5px; background:url(https://node-sandwich.herokuapp.com/layout/images/line_1.gif) repeat-x left bottom;}
 .block_comments_1 h3 {margin-bottom:3px; padding-bottom:17px; border-bottom:2px solid #e6ecec; font-size:20px; text-transform:uppercase;}
 .block_comments_1 h3 span {color:#777777;}
 
@@ -1060,10 +1060,10 @@ header .middle {padding:53px 0px 47px;}
 
 .block_leave_comment_1.type_1 .fields {margin-right:0px; float:none;}
 
-.block_also_like_1 {margin:43px 0px 0px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/line_1.gif) repeat-x left bottom;}
-.block_also_like_1 > .title {height:38px; line-height:38px; margin-bottom:36px; padding-bottom:3px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/line_1.gif) repeat-x left bottom; border-top:2px solid #161e26; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:15px; color:#191919; text-transform:uppercase; text-align:center;}
+.block_also_like_1 {margin:43px 0px 0px; background:url(https://node-sandwich.herokuapp.com/layout/images/line_1.gif) repeat-x left bottom;}
+.block_also_like_1 > .title {height:38px; line-height:38px; margin-bottom:36px; padding-bottom:3px; background:url(https://node-sandwich.herokuapp.com/layout/images/line_1.gif) repeat-x left bottom; border-top:2px solid #161e26; font-family:'Patua One', Helvetica, Arial, sans-serif; font-size:15px; color:#191919; text-transform:uppercase; text-align:center;}
 
-.block_also_like_1 .flex-direction-nav a {width:8px; height:12px; display:block; position:absolute; top:-64px; background-repeat:no-repeat; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5.png); text-indent:-9000px;}
+.block_also_like_1 .flex-direction-nav a {width:8px; height:12px; display:block; position:absolute; top:-64px; background-repeat:no-repeat; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5.png); text-indent:-9000px;}
 .block_also_like_1 .flex-direction-nav a.flex-prev {left:0px; background-position:left top;}
 .block_also_like_1 .flex-direction-nav a.flex-prev:hover {background-position:left bottom;}
 .block_also_like_1 .flex-direction-nav a.flex-next {right:0px; background-position:right top;}
@@ -1126,7 +1126,7 @@ header .middle {padding:53px 0px 47px;}
 	border-radius:0px;
 }
 .block_audio_1 .audio .mejs-controls .mejs-button {width:30px; height:30px;}
-.block_audio_1 .audio .mejs-controls .mejs-button button {width:30px; height:30px; margin:0px; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_audio_1.png); outline:0px !important;}
+.block_audio_1 .audio .mejs-controls .mejs-button button {width:30px; height:30px; margin:0px; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_audio_1.png); outline:0px !important;}
 
 .block_audio_1 .audio .mejs-controls .mejs-play button {background-position:-30px top;}
 .block_audio_1 .audio .mejs-controls .mejs-play button:hover {background-position:-30px bottom;}
@@ -1176,8 +1176,8 @@ header .middle {padding:53px 0px 47px;}
 .block_audio_1 .audio .mejs-container .mejs-controls .mejs-time.mejs-duration-container span {padding-left:18px;}
 
 .block_review_stat {width:260px; margin-top:6px; margin-right:20px; float:left; background-color:#0f141a;}
-.block_review_stat .value {width:68px; height:12px; position:relative; background:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_stars_1.png) no-repeat;}
-.block_review_stat .value div {width:0px; height:12px; position:absolute; left:0px; top:0px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_stars_1.png) no-repeat 0px bottom #0f141a;}
+.block_review_stat .value {width:68px; height:12px; position:relative; background:url(https://node-sandwich.herokuapp.com/layout/images/sprite_stars_1.png) no-repeat;}
+.block_review_stat .value div {width:0px; height:12px; position:absolute; left:0px; top:0px; background:url(https://node-sandwich.herokuapp.com/layout/images/sprite_stars_1.png) no-repeat 0px bottom #0f141a;}
 .block_review_stat .parameter {height:34px; line-height:34px; overflow:hidden; background-color:#151e26; border-bottom:1px solid #2d3740;}
 .block_review_stat .parameter .title {padding-left:12px; float:left; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:11px; color:#ffffff; font-weight:bold; text-transform:uppercase;}
 .block_review_stat .parameter .value {margin-right:8px; margin-top:11px; float:right}
@@ -1200,10 +1200,10 @@ header .middle {padding:53px 0px 47px;}
 	color:#191919;
 	text-transform:uppercase;
 }
-.block_accordion_type_1 .button_outer .icon {width:11px; height:11px; position:absolute; right:10px; top:13px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_plus_1.png) no-repeat; cursor:pointer;}
+.block_accordion_type_1 .button_outer .icon {width:11px; height:11px; position:absolute; right:10px; top:13px; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_plus_1.png) no-repeat; cursor:pointer;}
 .block_accordion_type_1 .button_outer.current {border-color:#33cccd;}
 .block_accordion_type_1 .button_outer.current .button_inner {}
-.block_accordion_type_1 .button_outer.current .icon {background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_minus_1.png) no-repeat;}
+.block_accordion_type_1 .button_outer.current .icon {background:url(https://node-sandwich.herokuapp.com/layout/images/icon_minus_1.png) no-repeat;}
 .block_accordion_type_1 .accordion_content {padding:14px 0px 12px; position:relative;}
 .block_accordion_type_1 .accordion_content p {padding-bottom:0px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:13px; line-height:20px;}
 
@@ -1219,10 +1219,10 @@ header .middle {padding:53px 0px 47px;}
 	color:#191919;
 	text-transform:uppercase;
 }
-.block_toggle_type_1 .button_outer .icon {width:8px; height:8px; position:absolute; right:13px; top:14px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_plus_2.png) no-repeat; cursor:pointer;}
+.block_toggle_type_1 .button_outer .icon {width:8px; height:8px; position:absolute; right:13px; top:14px; background:url(https://node-sandwich.herokuapp.com/layout/images/icon_plus_2.png) no-repeat; cursor:pointer;}
 .block_toggle_type_1 .button_outer.current {border-color:#33cccd;}
 .block_toggle_type_1 .button_outer.current .button_inner {}
-.block_toggle_type_1 .button_outer.current .icon {background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_minus_2.png) no-repeat 0px 4px;}
+.block_toggle_type_1 .button_outer.current .icon {background:url(https://node-sandwich.herokuapp.com/layout/images/icon_minus_2.png) no-repeat 0px 4px;}
 .block_toggle_type_1 .toggle_content {padding:14px 0px 12px; position:relative;}
 .block_toggle_type_1 .toggle_content p {padding-bottom:0px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:13px; line-height:20px;}
 
@@ -1233,7 +1233,7 @@ header .middle {padding:53px 0px 47px;}
 .block_tabs_type_1 .tabs li:first-child a span {border-left:1px solid #e3e3e3;}
 .block_tabs_type_1 .tabs li a span {height:34px; line-height:34px; padding:0px 12px; display:block; border-top:1px solid #e3e3e3; border-right:1px solid #e3e3e3; border-bottom:1px solid #e3e3e3; cursor:pointer;}
 .block_tabs_type_1 .tabs li a span.icon {padding-left:30px;}
-.block_tabs_type_1 .tabs li a span.display {background:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_display_1.png) no-repeat 10px 12px;}
+.block_tabs_type_1 .tabs li a span.display {background:url(https://node-sandwich.herokuapp.com/layout/images/icon_display_1.png) no-repeat 10px 12px;}
 .block_tabs_type_1 .tabs li a:hover {text-decoration:none;}
 .block_tabs_type_1 .tabs li a.current {background-color:#ffffff; border-top:2px solid #33cccd; color:#303030;}
 .block_tabs_type_1 .tabs li a.current span {border-bottom:0px; border-top:1px solid #33cccd;}
@@ -1273,9 +1273,9 @@ header .middle {padding:53px 0px 47px;}
 }
 .block_sidebar_social .row .button a:hover {background-color:#161e26; text-decoration:none;}
 
-.block_sidebar_social .row.fb .text {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_fb_1.jpg);}
-.block_sidebar_social .row.tw .text {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_tw_1.jpg);}
-.block_sidebar_social .row.rss .text {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_rss_1.jpg);}
+.block_sidebar_social .row.fb .text {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_fb_1.jpg);}
+.block_sidebar_social .row.tw .text {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_tw_1.jpg);}
+.block_sidebar_social .row.rss .text {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_rss_1.jpg);}
 
 .block_sidebar_popular_posts {padding:9px 0px 0px;}
 .block_sidebar_popular_posts article {padding:10px 0px 14px; overflow:hidden; border-top:1px solid #e6ecec;}
@@ -1318,10 +1318,10 @@ header .middle {padding:53px 0px 47px;}
 	font-weight:bold;
 	text-align:center;
 }
-.block_sidebar_most_commented article a .num .tail {width:4px; height:4px; position:absolute; left:5px; bottom:-4px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2.gif) no-repeat;}
+.block_sidebar_most_commented article a .num .tail {width:4px; height:4px; position:absolute; left:5px; bottom:-4px; background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2.gif) no-repeat;}
 .block_sidebar_most_commented article a .title {display:block; overflow:hidden; font-size:11px; color:#424242; font-weight:bold; text-transform:uppercase; line-height:17px;}
 .block_sidebar_most_commented article a:hover .num {background-color:#161e26;}
-.block_sidebar_most_commented article a:hover .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_3.gif) no-repeat;}
+.block_sidebar_most_commented article a:hover .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_3.gif) no-repeat;}
 .block_sidebar_most_commented article a:hover .title {color:#33cccd;}
 
 .block_sidebar_latest_comments {padding:9px 0px 0px;}
@@ -1403,21 +1403,21 @@ header .middle {padding:53px 0px 47px;}
 
 .block_sidebar_calendar_1 .datepickerGoPrev {background-color:#ffffff;}
 .block_sidebar_calendar_1 .datepickerGoPrev a {width:37px; height:42px; display:block; font-size:0px; line-height:0px; cursor:pointer;}
-.block_sidebar_calendar_1 .datepickerGoPrev span {width:37px; height:42px; display:block; background:url(http://www.randyjap.com/sandwich_assets/layout/images/arrow_2.png) no-repeat 0px 17px; text-indent:-9000px;}
+.block_sidebar_calendar_1 .datepickerGoPrev span {width:37px; height:42px; display:block; background:url(https://node-sandwich.herokuapp.com/layout/images/arrow_2.png) no-repeat 0px 17px; text-indent:-9000px;}
 
 .block_sidebar_calendar_1 .datepickerMonth {background-color:#ffffff; text-align:center;}
 .block_sidebar_calendar_1 .datepickerMonth a {height:42px; line-height:42px; display:block; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:13px; color:#181818; font-weight:600; text-transform:uppercase;}
 
 .block_sidebar_calendar_1 .datepickerGoNext {background-color:#ffffff;}
 .block_sidebar_calendar_1 .datepickerGoNext a {width:38px; height:42px; display:block; font-size:0px; line-height:0px; cursor:pointer;}
-.block_sidebar_calendar_1 .datepickerGoNext span {width:38px; height:42px; display:block; background:url(http://www.randyjap.com/sandwich_assets/layout/images/arrow_3.png) no-repeat right 17px; text-indent:-9000px;}
+.block_sidebar_calendar_1 .datepickerGoNext span {width:38px; height:42px; display:block; background:url(https://node-sandwich.herokuapp.com/layout/images/arrow_3.png) no-repeat right 17px; text-indent:-9000px;}
 
 .block_sidebar_calendar_1 .datepickerDoW {}
 .block_sidebar_calendar_1 .datepickerDoW th {background-color:#ffffff; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:13px; color:#5c5c5c; font-weight:bold; text-align:center;}
 .block_sidebar_calendar_1 .datepickerDoW th span {width:37px; height:42px; line-height:42px; display:block; border-top:2px solid #1a232b; border-bottom:2px solid #e8e8e8;}
 .block_sidebar_calendar_1 .datepickerDoW th.last span {width:38px;}
 
-.block_sidebar_calendar_1 .prev_month {height:37px; line-height:37px; padding-left:14px; display:block; position:absolute; left:17px; bottom:0px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/arrow_4.png) no-repeat left 15px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:10px; color:#989898; font-weight:bold; text-transform:uppercase;}
+.block_sidebar_calendar_1 .prev_month {height:37px; line-height:37px; padding-left:14px; display:block; position:absolute; left:17px; bottom:0px; background:url(https://node-sandwich.herokuapp.com/layout/images/arrow_4.png) no-repeat left 15px; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:10px; color:#989898; font-weight:bold; text-transform:uppercase;}
 .block_sidebar_calendar_1 .prev_month:hover {text-decoration:none;}
 
 
@@ -1489,7 +1489,7 @@ footer .bottom {}
 	top:0px;
 	bottom:0px;
 
-	background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_zoom_1.gif);
+	background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_zoom_1.gif);
 	background-repeat:no-repeat;
 	background-position:center center;
 	background-color:rgba(51, 204, 205, 0.32);
@@ -1713,44 +1713,44 @@ footer .bottom {}
 .general_info_box .close:hover {background-position:left bottom;}
 
 .general_info_box.info {
-	background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_message_box_1.png);
+	background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_message_box_1.png);
 	background-position:13px 16px;
 	background-color:#ffffff;
 	border:1px solid #e2e2e2;
 }
 .general_info_box.info p {color:#989898;}
 .general_info_box.info a {color:#989898;}
-.general_info_box.info .close {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_close_1.gif);}
+.general_info_box.info .close {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_close_1.gif);}
 
 .general_info_box.warning {
-	background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_message_box_2.png);
+	background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_message_box_2.png);
 	background-position:11px 15px;
 	background-color:#ffbe34;
 	border:1px solid #ffbe34;
 }
 .general_info_box.warning p {color:#ffffff;}
 .general_info_box.warning a {color:#ffffff;}
-.general_info_box.warning .close {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_close_2.gif);}
+.general_info_box.warning .close {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_close_2.gif);}
 
 .general_info_box.success {
-	background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_message_box_3.png);
+	background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_message_box_3.png);
 	background-position:13px 16px;
 	background-color:#35bb2e;
 	border:1px solid #35bb2e;
 }
 .general_info_box.success p {color:#ffffff;}
 .general_info_box.success a {color:#ffffff;}
-.general_info_box.success .close {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_close_2.gif);}
+.general_info_box.success .close {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_close_2.gif);}
 
 .general_info_box.error {
-	background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_message_box_4.png);
+	background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_message_box_4.png);
 	background-position:13px 15px;
 	background-color:#e35039;
 	border:1px solid #e35039;
 }
 .general_info_box.error p {color:#ffffff;}
 .general_info_box.error a {color:#ffffff;}
-.general_info_box.error .close {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_close_2.gif);}
+.general_info_box.error .close {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_close_2.gif);}
 
 
 
@@ -1812,7 +1812,7 @@ footer .bottom {}
           transition-duration: 0s;
 }
 
-.general_not_loaded {min-height:100px; overflow:hidden; background:url(http://www.randyjap.com/sandwich_assets/layout/images/loader_1.gif) no-repeat center center;}
+.general_not_loaded {min-height:100px; overflow:hidden; background:url(https://node-sandwich.herokuapp.com/layout/images/loader_1.gif) no-repeat center center;}
 .general_not_loaded > * {opacity:0;}
 
 
@@ -1975,21 +1975,21 @@ footer .bottom {}
 (-moz-min-device-pixel-ratio:1.1),
 (-o-min-device-pixel-ratio:1.1),
 (min-device-pixel-ratio:1.1) {
-	.block_search {overflow:hidden; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_search_1_r.png); background-size:14px 14px;}
+	.block_search {overflow:hidden; background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_search_1_r.png); background-size:14px 14px;}
 
-	.block_posts .load_more_1 span:after {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_load_1_r.png); background-size:11px 11px;}
+	.block_posts .load_more_1 span:after {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_load_1_r.png); background-size:11px 11px;}
 
-	.block_accordion_type_1 .button_outer .icon {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_plus_1_r.png); background-size:11px 11px;}
-	.block_accordion_type_1 .button_outer.current .icon {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_minus_1_r.png); background-size:11px 11px;}
+	.block_accordion_type_1 .button_outer .icon {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_plus_1_r.png); background-size:11px 11px;}
+	.block_accordion_type_1 .button_outer.current .icon {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_minus_1_r.png); background-size:11px 11px;}
 
-	.block_toggle_type_1 .button_outer .icon {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_plus_2_r.png); background-size:8px 8px;}
-	.block_toggle_type_1 .button_outer.current .icon {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_minus_2_r.png); background-size:8px 3px;}
+	.block_toggle_type_1 .button_outer .icon {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_plus_2_r.png); background-size:8px 8px;}
+	.block_toggle_type_1 .button_outer.current .icon {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_minus_2_r.png); background-size:8px 3px;}
 
-	.block_archives .list ul ul li {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/marker_1.png); background-size:6px 6px;}
+	.block_archives .list ul ul li {background-image:url(https://node-sandwich.herokuapp.com/layout/images/marker_1.png); background-size:6px 6px;}
 
-	.block_sidebar_social .row.fb .text {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_fb_1_r.jpg); background-size:31px 31px;}
-	.block_sidebar_social .row.tw .text {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_tw_1_r.jpg); background-size:31px 31px;}
-	.block_sidebar_social .row.rss .text {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_rss_1_r.jpg); background-size:31px 31px;}
+	.block_sidebar_social .row.fb .text {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_fb_1_r.jpg); background-size:31px 31px;}
+	.block_sidebar_social .row.tw .text {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_tw_1_r.jpg); background-size:31px 31px;}
+	.block_sidebar_social .row.rss .text {background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_rss_1_r.jpg); background-size:31px 31px;}
 
 	.block_general_title_2 .stats .likes,
 	.block_caption_1 .stats .likes,
@@ -1999,7 +1999,7 @@ footer .bottom {}
 	.block_posts .post_type_4 .info .likes,
 	.block_posts .post_type_5 .info .likes,
 	.block_posts .post_type_6 .info .likes
-	{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_like_1_r.png); background-size:11px 10px;}
+	{background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_like_1_r.png); background-size:11px 10px;}
 
 	.block_general_title_2 .stats .comments,
 	.block_caption_1 .stats .comments,
@@ -2009,17 +2009,17 @@ footer .bottom {}
 	.block_posts .post_type_4 .info .comments,
 	.block_posts .post_type_5 .info .comments,
 	.block_posts .post_type_6 .info .comments
-	{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/icon_comments_1_r.png); background-size:11px 10px;}
+	{background-image:url(https://node-sandwich.herokuapp.com/layout/images/icon_comments_1_r.png); background-size:11px 10px;}
 
-	.general_social_1 a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_social_1_r.png); background-size:auto 90px;}
-	.general_social_2 a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_social_2_r.png); background-size:auto 54px;}
-	.general_social_3 a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_social_3_r.png); background-size:auto 50px;}
+	.general_social_1 a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_social_1_r.png); background-size:auto 90px;}
+	.general_social_2 a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_social_2_r.png); background-size:auto 54px;}
+	.general_social_3 a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_social_3_r.png); background-size:auto 50px;}
 
 	.block_posts .post_type_4 .value,
 	.block_posts .post_type_4 .value div,
 	.block_review_stat .value,
 	.block_review_stat .value div
-	{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_stars_1_r.png); background-size:auto 24px;}
+	{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_stars_1_r.png); background-size:auto 24px;}
 }
 
 
@@ -2172,7 +2172,7 @@ footer .bottom {}
 	.block_posts.type_8 {margin-left:0px;}
 	.block_posts.type_8 article {width:auto; margin-left:0px; float:none;}
 
-	.block_slider_type_1 .flex-direction-nav a {width:28px; height:28px; margin-top:-14px; background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7.png);}
+	.block_slider_type_1 .flex-direction-nav a {width:28px; height:28px; margin-top:-14px; background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7.png);}
 	.block_slider_type_1:hover .flex-direction-nav a.flex-prev {left:11px;}
 	.block_slider_type_1:hover .flex-direction-nav a.flex-next {right:11px;}
 
@@ -2369,7 +2369,7 @@ footer .bottom {}
 	.block_sidebar_calendar_1 .datepickerDoW th span {width:38px;}
 	.block_sidebar_calendar_1 .datepickerDoW th.last span {width:38px;}
 
-	.block_404 {width:300px; margin:0px; padding:0px; background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320.png) no-repeat right top;}
+	.block_404 {width:300px; margin:0px; padding:0px; background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320.png) no-repeat right top;}
 	.block_404 h1 {font-size:123px;}
 	.block_404 h2 {padding:5px 0px 20px;}
 
@@ -2398,18 +2398,18 @@ footer .bottom {}
 /* Customization styles */
 .layout_boxed .wrapper {width:992px; margin:0px auto;}
 
-.theme_bg_1 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_1.jpg);}
-.theme_bg_2 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_2.jpg);}
-.theme_bg_3 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_3.jpg);}
-.theme_bg_4 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_4.jpg);}
-.theme_bg_5 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_5.jpg);}
-.theme_bg_6 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_6.jpg);}
-.theme_bg_7 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_7.jpg);}
-.theme_bg_8 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_8.jpg);}
-.theme_bg_9 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_9.jpg);}
-.theme_bg_10 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_10.jpg);}
-.theme_bg_11 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_11.jpg);}
-.theme_bg_12 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_12.jpg);}
+.theme_bg_1 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_1.jpg);}
+.theme_bg_2 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_2.jpg);}
+.theme_bg_3 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_3.jpg);}
+.theme_bg_4 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_4.jpg);}
+.theme_bg_5 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_5.jpg);}
+.theme_bg_6 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_6.jpg);}
+.theme_bg_7 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_7.jpg);}
+.theme_bg_8 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_8.jpg);}
+.theme_bg_9 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_9.jpg);}
+.theme_bg_10 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_10.jpg);}
+.theme_bg_11 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_11.jpg);}
+.theme_bg_12 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_12.jpg);}
 
 @media (max-width:960px) {
 	.layout_boxed .wrapper {width:auto;}
@@ -2547,29 +2547,29 @@ footer .bottom {}
 
 .theme_red .block_infobox {border-color:#fae6e1;}
 
-.theme_red .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_red.png);}
+.theme_red .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_red.png);}
 
 .theme_red .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_red .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_red .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_red.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_red.png);}
 
 .theme_red .block_slider_type_3 .flex-direction-nav a,
 .theme_red .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_red.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_red.png);}
 
-.theme_red .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_red.png);}
+.theme_red .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_red.png);}
 
-.theme_red .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_red.gif) no-repeat;}
+.theme_red .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_red.gif) no-repeat;}
 
-.theme_red .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_red.png) no-repeat right top;}
+.theme_red .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_red.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_red .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_red.png);}
+	.theme_red .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_red.png);}
 }
 
 @media (max-width:479px) {
-	.theme_red .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_red.png) no-repeat right top;}
+	.theme_red .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_red.png) no-repeat right top;}
 }
 
 /* blue */
@@ -2704,29 +2704,29 @@ footer .bottom {}
 
 .theme_blue .block_infobox {border-color:#e2f3fe;}
 
-.theme_blue .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_blue.png);}
+.theme_blue .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_blue.png);}
 
 .theme_blue .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_blue .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_blue .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_blue.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_blue.png);}
 
 .theme_blue .block_slider_type_3 .flex-direction-nav a,
 .theme_blue .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_blue.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_blue.png);}
 
-.theme_blue .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_blue.png);}
+.theme_blue .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_blue.png);}
 
-.theme_blue .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_blue.gif) no-repeat;}
+.theme_blue .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_blue.gif) no-repeat;}
 
-.theme_blue .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_blue.png) no-repeat right top;}
+.theme_blue .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_blue.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_blue .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_blue.png);}
+	.theme_blue .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_blue.png);}
 }
 
 @media (max-width:479px) {
-	.theme_blue .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_blue.png) no-repeat right top;}
+	.theme_blue .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_blue.png) no-repeat right top;}
 }
 
 /* orange */
@@ -2861,29 +2861,29 @@ footer .bottom {}
 
 .theme_orange .block_infobox {border-color:#fee9da;}
 
-.theme_orange .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_orange.png);}
+.theme_orange .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_orange.png);}
 
 .theme_orange .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_orange .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_orange .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_orange.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_orange.png);}
 
 .theme_orange .block_slider_type_3 .flex-direction-nav a,
 .theme_orange .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_orange.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_orange.png);}
 
-.theme_orange .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_orange.png);}
+.theme_orange .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_orange.png);}
 
-.theme_orange .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_orange.gif) no-repeat;}
+.theme_orange .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_orange.gif) no-repeat;}
 
-.theme_orange .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_orange.png) no-repeat right top;}
+.theme_orange .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_orange.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_orange .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_orange.png);}
+	.theme_orange .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_orange.png);}
 }
 
 @media (max-width:479px) {
-	.theme_orange .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_orange.png) no-repeat right top;}
+	.theme_orange .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_orange.png) no-repeat right top;}
 }
 
 /* navy */
@@ -3018,29 +3018,29 @@ footer .bottom {}
 
 .theme_navy .block_infobox {border-color:#e4eff8;}
 
-.theme_navy .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_navy.png);}
+.theme_navy .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_navy.png);}
 
 .theme_navy .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_navy .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_navy .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_navy.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_navy.png);}
 
 .theme_navy .block_slider_type_3 .flex-direction-nav a,
 .theme_navy .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_navy.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_navy.png);}
 
-.theme_navy .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_navy.png);}
+.theme_navy .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_navy.png);}
 
-.theme_navy .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_navy.gif) no-repeat;}
+.theme_navy .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_navy.gif) no-repeat;}
 
-.theme_navy .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_navy.png) no-repeat right top;}
+.theme_navy .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_navy.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_navy .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_navy.png);}
+	.theme_navy .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_navy.png);}
 }
 
 @media (max-width:479px) {
-	.theme_navy .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_navy.png) no-repeat right top;}
+	.theme_navy .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_navy.png) no-repeat right top;}
 }
 
 /* peach */
@@ -3175,29 +3175,29 @@ footer .bottom {}
 
 .theme_peach .block_infobox {border-color:#fae6e1;}
 
-.theme_peach .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_peach.png);}
+.theme_peach .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_peach.png);}
 
 .theme_peach .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_peach .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_peach .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_peach.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_peach.png);}
 
 .theme_peach .block_slider_type_3 .flex-direction-nav a,
 .theme_peach .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_peach.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_peach.png);}
 
-.theme_peach .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_peach.png);}
+.theme_peach .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_peach.png);}
 
-.theme_peach .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_peach.gif) no-repeat;}
+.theme_peach .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_peach.gif) no-repeat;}
 
-.theme_peach .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_peach.png) no-repeat right top;}
+.theme_peach .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_peach.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_peach .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_peach.png);}
+	.theme_peach .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_peach.png);}
 }
 
 @media (max-width:479px) {
-	.theme_peach .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_peach.png) no-repeat right top;}
+	.theme_peach .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_peach.png) no-repeat right top;}
 }
 
 /* yellow */
@@ -3332,29 +3332,29 @@ footer .bottom {}
 
 .theme_yellow .block_infobox {border-color:#fdf1d8;}
 
-.theme_yellow .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_yellow.png);}
+.theme_yellow .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_yellow.png);}
 
 .theme_yellow .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_yellow .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_yellow .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_yellow.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_yellow.png);}
 
 .theme_yellow .block_slider_type_3 .flex-direction-nav a,
 .theme_yellow .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_yellow.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_yellow.png);}
 
-.theme_yellow .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_yellow.png);}
+.theme_yellow .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_yellow.png);}
 
-.theme_yellow .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_yellow.gif) no-repeat;}
+.theme_yellow .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_yellow.gif) no-repeat;}
 
-.theme_yellow .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_yellow.png) no-repeat right top;}
+.theme_yellow .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_yellow.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_yellow .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_yellow.png);}
+	.theme_yellow .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_yellow.png);}
 }
 
 @media (max-width:479px) {
-	.theme_yellow .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_yellow.png) no-repeat right top;}
+	.theme_yellow .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_yellow.png) no-repeat right top;}
 }
 
 /* cyan */
@@ -3489,29 +3489,29 @@ footer .bottom {}
 
 .theme_cyan .block_infobox {border-color:#deeefe;}
 
-.theme_cyan .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_cyan.png);}
+.theme_cyan .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_cyan.png);}
 
 .theme_cyan .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_cyan .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_cyan .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_cyan.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_cyan.png);}
 
 .theme_cyan .block_slider_type_3 .flex-direction-nav a,
 .theme_cyan .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_cyan.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_cyan.png);}
 
-.theme_cyan .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_cyan.png);}
+.theme_cyan .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_cyan.png);}
 
-.theme_cyan .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_cyan.gif) no-repeat;}
+.theme_cyan .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_cyan.gif) no-repeat;}
 
-.theme_cyan .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_cyan.png) no-repeat right top;}
+.theme_cyan .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_cyan.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_cyan .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_cyan.png);}
+	.theme_cyan .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_cyan.png);}
 }
 
 @media (max-width:479px) {
-	.theme_cyan .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_cyan.png) no-repeat right top;}
+	.theme_cyan .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_cyan.png) no-repeat right top;}
 }
 
 /* pink */
@@ -3646,29 +3646,29 @@ footer .bottom {}
 
 .theme_pink .block_infobox {border-color:#fce7eb;}
 
-.theme_pink .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_pink.png);}
+.theme_pink .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_pink.png);}
 
 .theme_pink .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_pink .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_pink .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_pink.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_pink.png);}
 
 .theme_pink .block_slider_type_3 .flex-direction-nav a,
 .theme_pink .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_pink.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_pink.png);}
 
-.theme_pink .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_pink.png);}
+.theme_pink .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_pink.png);}
 
-.theme_pink .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_pink.gif) no-repeat;}
+.theme_pink .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_pink.gif) no-repeat;}
 
-.theme_pink .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_pink.png) no-repeat right top;}
+.theme_pink .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_pink.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_pink .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_pink.png);}
+	.theme_pink .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_pink.png);}
 }
 
 @media (max-width:479px) {
-	.theme_pink .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_pink.png) no-repeat right top;}
+	.theme_pink .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_pink.png) no-repeat right top;}
 }
 
 /* purple */
@@ -3803,29 +3803,29 @@ footer .bottom {}
 
 .theme_purple .block_infobox {border-color:#f9e4ef;}
 
-.theme_purple .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_purple.png);}
+.theme_purple .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_purple.png);}
 
 .theme_purple .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_purple .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_purple .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_purple.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_purple.png);}
 
 .theme_purple .block_slider_type_3 .flex-direction-nav a,
 .theme_purple .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_purple.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_purple.png);}
 
-.theme_purple .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_purple.png);}
+.theme_purple .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_purple.png);}
 
-.theme_purple .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_purple.gif) no-repeat;}
+.theme_purple .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_purple.gif) no-repeat;}
 
-.theme_purple .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_purple.png) no-repeat right top;}
+.theme_purple .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_purple.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_purple .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_purple.png);}
+	.theme_purple .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_purple.png);}
 }
 
 @media (max-width:479px) {
-	.theme_purple .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_purple.png) no-repeat right top;}
+	.theme_purple .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_purple.png) no-repeat right top;}
 }
 
 /* green */
@@ -3960,29 +3960,29 @@ footer .bottom {}
 
 .theme_green .block_infobox {border-color:#e2f9e1;}
 
-.theme_green .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_green.png);}
+.theme_green .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_green.png);}
 
 .theme_green .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_green .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_green .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_green.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_green.png);}
 
 .theme_green .block_slider_type_3 .flex-direction-nav a,
 .theme_green .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_green.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_green.png);}
 
-.theme_green .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_green.png);}
+.theme_green .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_green.png);}
 
-.theme_green .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_green.gif) no-repeat;}
+.theme_green .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_green.gif) no-repeat;}
 
-.theme_green .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_green.png) no-repeat right top;}
+.theme_green .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_green.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_green .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_green.png);}
+	.theme_green .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_green.png);}
 }
 
 @media (max-width:479px) {
-	.theme_green .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_green.png) no-repeat right top;}
+	.theme_green .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_green.png) no-repeat right top;}
 }
 
 /* magenta */
@@ -4117,27 +4117,27 @@ footer .bottom {}
 
 .theme_magenta .block_infobox {border-color:#ffeaea;}
 
-.theme_magenta .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_1_magenta.png);}
+.theme_magenta .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_1_magenta.png);}
 
 .theme_magenta .block_posts .post_type_1 .slider .flex-direction-nav a,
 .theme_magenta .block_posts .post_type_4 .slider .flex-direction-nav a,
 .theme_magenta .block_posts .post_type_5 .slider .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_2_magenta.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_2_magenta.png);}
 
 .theme_magenta .block_slider_type_3 .flex-direction-nav a,
 .theme_magenta .block_slider_type_4 .flex-direction-nav a
-{background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_4_magenta.png);}
+{background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_4_magenta.png);}
 
-.theme_magenta .block_also_like_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_5_magenta.png);}
+.theme_magenta .block_also_like_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_5_magenta.png);}
 
-.theme_magenta .block_sidebar_most_commented article a .num .tail {background:url(http://www.randyjap.com/sandwich_assets/layout/images/tail_2_magenta.gif) no-repeat;}
+.theme_magenta .block_sidebar_most_commented article a .num .tail {background:url(https://node-sandwich.herokuapp.com/layout/images/tail_2_magenta.gif) no-repeat;}
 
-.theme_magenta .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_magenta.png) no-repeat right top;}
+.theme_magenta .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_magenta.png) no-repeat right top;}
 
 @media (max-width:768px) {
-	.theme_magenta .block_slider_type_1 .flex-direction-nav a {background-image:url(http://www.randyjap.com/sandwich_assets/layout/images/sprite_arrow_7_magenta.png);}
+	.theme_magenta .block_slider_type_1 .flex-direction-nav a {background-image:url(https://node-sandwich.herokuapp.com/layout/images/sprite_arrow_7_magenta.png);}
 }
 
 @media (max-width:479px) {
-	.theme_magenta .block_404 {background:url(http://www.randyjap.com/sandwich_assets/layout/images/bg_404_320_magenta.png) no-repeat right top;}
+	.theme_magenta .block_404 {background:url(https://node-sandwich.herokuapp.com/layout/images/bg_404_320_magenta.png) no-repeat right top;}
 }
